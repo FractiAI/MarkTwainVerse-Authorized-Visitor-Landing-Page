@@ -50,6 +50,19 @@ export default function Home() {
 
   return (
     <main className="min-h-screen relative overflow-hidden">
+      {/* HumboldtVerse Portal Button */}
+      <a 
+        href="/humboldtverse"
+        className="humboldtverse-portal"
+        title="Explore the Natural Systems Protocol Expedition"
+      >
+        <span className="portal-icon">🌿</span>
+        <span className="portal-text">
+          <strong>HumboldtVerse</strong>
+          <small>NSPFRP Expedition</small>
+        </span>
+      </a>
+
       {/* Animated Sky Background - Tied to Day/Night Cycle */}
       <motion.div
         className={`fixed inset-0 -z-10 ${getSkyClass(dayPhase)}`}
@@ -328,4 +341,5 @@ export default function Home() {
     </main>
   );
 }
+
 
