@@ -2,13 +2,13 @@
 
 /**
  * Auto-Tour Control Panel
- * HumboldtVerse Expedition Control
+ * AlexandrevonHumboldtverse Expedition Control
  * Modeled on HHF-AI MRI Demo structure
  */
 
 import { useState, useEffect } from 'react';
 import { Play, Pause, RotateCcw, SkipForward, Volume2, VolumeX } from 'lucide-react';
-import { getAutoTourEngine, TOUR_STAGES } from '@/lib/humboldtverse/autoTourEngine';
+import { getAutoTourEngine, TOUR_STAGES } from '@/lib/alexandrevonhumboldtverse/autoTourEngine';
 
 export default function AutoTourControl() {
   const [isActive, setIsActive] = useState(false);

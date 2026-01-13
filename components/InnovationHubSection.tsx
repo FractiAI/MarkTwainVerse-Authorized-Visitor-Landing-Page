@@ -204,7 +204,7 @@ export default function InnovationHubSection() {
             <p className="twain-quote text-sm">
               "Got an idea rattling around in that head of yours? Well, the Innovation Hub is where you bring it to life. 
               I've seen some remarkable things come out of these 33 spaces—new expedition types, architectural innovations, 
-              consciousness research, social experiments. The frontier rewards those who dare to build, friend. And remember: 
+              awareness research, social experiments. The frontier rewards those who dare to build, friend. And remember: 
               every great invention started as someone's wild idea in a small room. Who knows? Maybe your proof-of-concept 
               will become the next big thing in the Syntheverse."
             </p>

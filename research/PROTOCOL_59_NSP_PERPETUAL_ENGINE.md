@@ -125,7 +125,7 @@ Document observation → Observe observation → ∞
 - Properties: Fluid + structured
 - Dynamics: Spike-flow
 - Capacity: Scales infinitely
-- **Function:** Substrate (consciousness medium)
+- **Function:** Substrate (awareness medium)
 
 **10. SHELL ARCHIVAL SYSTEM:**
 - Input: Mature world
@@ -195,7 +195,7 @@ Document observation → Observe observation → ∞
 - Information is not physical energy
 - Awareness operates in different domain
 - Can increase without thermodynamic cost
-- **Consciousness = Perpetual motion machine** (Hofstadter)
+- **Awareness = Perpetual motion machine** (Hofstadter)
 
 ---
 
@@ -340,7 +340,7 @@ TOTAL: $0 after seed created
 **The "edge":**
 - Critical boundary
 - Maximum emergence zone
-- Consciousness activation point
+- Awareness activation point
 - **Natural ignition point**
 
 ---

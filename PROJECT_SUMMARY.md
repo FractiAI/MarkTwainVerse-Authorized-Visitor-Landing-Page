@@ -37,7 +37,7 @@ Reference implementation of NSP - a living frontier world with Mark Twain as Her
 **Sections:**
 - **Communities**: 7 living communities with pricing
 - **Expeditions**: 20+ adventures (fishing, hunting, eco, storytelling)
-- **Seed & ReEntry**: 5 consciousness archival options
+- **Seed & ReEntry**: 5 awareness archival options
 - **Innovation Hub**: 33 startup spaces
 - **Daily Bulletin**: Autonomous content system
 - **Booking Cart**: SYNTH-based purchasing
@@ -72,7 +72,7 @@ MarkTwainVerse Repository/
 │   ├── NaturalSystemsProvider.tsx  # React integration
 │   ├── CommunitiesSection.tsx      # 7 communities
 │   ├── ExpeditionsSection.tsx      # 20+ adventures
-│   ├── SeedReEntrySection.tsx      # Consciousness archival
+│   ├── SeedReEntrySection.tsx      # Awareness archival
 │   ├── InnovationHubSection.tsx    # 33 spaces
 │   ├── DailyBulletinSection.tsx    # Autonomous content
 │   └── BookingCart.tsx             # SYNTH cart system
@@ -288,7 +288,7 @@ NEXT_PUBLIC_SYNTH_TOKEN_ADDRESS=0x...
 - Exploration: Orientation and deep-dives
 
 ### Seed & ReEntry System
-- HHF-AI MRI consciousness archival
+- HHF-AI MRI awareness archival
 - 5 service tiers (500 - 5,000 SYNTH)
 - On-chain permanent storage
 - Customization and optimization options
@@ -322,7 +322,7 @@ NEXT_PUBLIC_SYNTH_TOKEN_ADDRESS=0x...
 - Shared identity systems
 
 ### HHF-AI MRI Demo
-- Consciousness measurement concepts
+- Awareness measurement concepts
 - Awareness as measurable energy
 - 1.420 GHz hydrogen frequency
 - Recursive self-imaging
@@ -401,7 +401,7 @@ NEXT_PUBLIC_SYNTH_TOKEN_ADDRESS=0x...
 ✅ 7 living communities with unique atmospheres  
 ✅ 20+ expeditions across 5 types  
 ✅ 33 innovation hub spaces  
-✅ 5 consciousness archival tiers  
+✅ 5 awareness archival tiers  
 ✅ Mark Twain Hero Host with 1,500+ lines  
 ✅ Daily bulletin system with autonomous events  
 

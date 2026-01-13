@@ -50,15 +50,15 @@ export default function Home() {
 
   return (
     <main className="min-h-screen relative overflow-hidden">
-      {/* HumboldtVerse Portal Button */}
+      {/* AlexandrevonHumboldtverse Portal Button */}
       <a 
-        href="/humboldtverse"
-        className="humboldtverse-portal"
+        href="/alexandrevonhumboldtverse"
+        className="alexandrevonhumboldtverse-portal"
         title="Explore the Natural Systems Protocol Expedition"
       >
         <span className="portal-icon">🌿</span>
         <span className="portal-text">
-          <strong>HumboldtVerse</strong>
+          <strong>AlexandrevonHumboldtverse</strong>
           <small>NSPFRP Expedition</small>
         </span>
       </a>

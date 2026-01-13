@@ -1,7 +1,7 @@
 'use client';
 
 /**
- * HumboldtVerse - Natural Systems Protocol Expedition
+ * AlexandrevonHumboldtverse - Natural Systems Protocol Expedition
  * Interactive Museum-Style Science Communication
  * Bringing scientific papers to life for all ages
  */
@@ -9,12 +9,12 @@
 import { useState, useEffect } from 'react';
 import { Compass, Book, Sparkles, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
-import AutoTourControl from '@/components/humboldtverse/AutoTourControl';
-import StorytellingPanel, { STORY_PANELS } from '@/components/humboldtverse/StorytellingPanel';
-import InteractiveCrystallizer from '@/components/humboldtverse/InteractiveCrystallizer';
-import { humboldtSpeak } from '@/lib/humboldtverse/humboldtPersonality';
+import AutoTourControl from '@/components/alexandrevonhumboldtverse/AutoTourControl';
+import StorytellingPanel, { STORY_PANELS } from '@/components/alexandrevonhumboldtverse/StorytellingPanel';
+import InteractiveCrystallizer from '@/components/alexandrevonhumboldtverse/InteractiveCrystallizer';
+import { humboldtSpeak } from '@/lib/alexandrevonhumboldtverse/humboldtPersonality';
 
-export default function HumboldtVersePage() {
+export default function AlexandrevonHumboldtversePage() {
   const [hasStarted, setHasStarted] = useState(false);
   const [currentPanel, setCurrentPanel] = useState(0);
   const [showCrystallizer, setShowCrystallizer] = useState(false);
@@ -22,7 +22,7 @@ export default function HumboldtVersePage() {
   const greeting = humboldtSpeak({ topic: 'greeting' });
 
   return (
-    <div className="humboldtverse-page">
+    <div className="alexandrevonhumboldtverse-page">
       {/* Navigation Header */}
       <header className="humboldt-header">
         <Link href="/" className="back-button">
@@ -32,7 +32,7 @@ export default function HumboldtVersePage() {
         
         <div className="header-title">
           <Compass className="compass-icon" />
-          <h1>HumboldtVerse Expedition</h1>
+          <h1>AlexandrevonHumboldtverse Expedition</h1>
         </div>
 
         <button 
@@ -218,7 +218,7 @@ export default function HumboldtVersePage() {
       )}
 
       <style jsx>{`
-        .humboldtverse-page {
+        .alexandrevonhumboldtverse-page {
           min-height: 100vh;
           background: linear-gradient(135deg, #f0f8ff 0%, #e6f4ea 100%);
         }

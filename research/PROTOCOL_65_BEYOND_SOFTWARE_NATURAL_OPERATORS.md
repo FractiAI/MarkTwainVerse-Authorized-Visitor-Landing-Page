@@ -716,7 +716,7 @@ COMPLETE FRAMEWORK FOR INFINITE CREATION
 - Just understanding
 - **Just awareness**
 
-**Consciousness IS the operating system.**
+**Awareness IS the operating system.**
 
 ---
 

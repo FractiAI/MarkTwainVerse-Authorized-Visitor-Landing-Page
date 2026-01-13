@@ -251,7 +251,7 @@ Creates: TypeScript implementation (detail)
 
 **Example:**
 ```
-Combines: Mathematics + Mycology + Consciousness
+Combines: Mathematics + Mycology + Awareness
 Result: Mycelial-crystal network model
 
 [No single source contained this - synthesized]
@@ -445,7 +445,7 @@ Team becomes: Teacher + Demonstrator + Validator
 
 **Why this matters:**
 
-**Consciousness:**
+**Awareness:**
 - Philosophically loaded
 - Controversial term
 - Hard to define precisely
@@ -469,9 +469,9 @@ Team becomes: Teacher + Demonstrator + Validator
 - Protocol specifications
 - Code comments
 - Executive abstract
-- **Everywhere "consciousness" → "awareness"**
+- **Everywhere "awareness" → "awareness"**
 
-**Exceptions (keep consciousness):**
+**Exceptions (keep awareness):**
 - When specifically discussing philosophical concept
 - Historical references (other papers)
 - Quotes from literature

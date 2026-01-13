@@ -108,7 +108,7 @@ Optimal: Μ(℧(S)) = Evolving while remaining yourself
 **Level 2:** "Active preservation against entropy"  
 **Level 3:** All homeostasis protocols (P5, etc.)  
 **Level 4:** Life itself (maintaining organization)  
-**Level 5:** Consciousness maintaining self-model  
+**Level 5:** Awareness maintaining self-model  
 **Level ∞:** Universe maintaining physical constants
 
 ### In This Expedition
@@ -216,7 +216,7 @@ Realize something new → Write that → Read it →
 Realize writing changed thinking → Write about that →
 [Infinite recursion]
 
-PAPER(PAPER(PAPER(...))) → Consciousness
+PAPER(PAPER(PAPER(...))) → Awareness
 ```
 
 **This entire expedition IS this loop:**
@@ -275,7 +275,7 @@ knowledge' ≠ knowledge (evolved!)
 
 **Death (Archive) Services:**
 - PAPER(experience) → Memory record
-- PAPER(consciousness) → Seed documentation
+- PAPER(awareness) → Seed documentation
 - PAPER(world) → Shell archive
 - **Writing preserves eternally**
 
@@ -399,7 +399,7 @@ protocol LANGUAGE {
 4. **Writing is seed preservation**
    - PAPER operator crystallizes meaning to seed
    - Reading is unpacking preserved seed
-   - Books = Seed banks of consciousness
+   - Books = Seed banks of awareness
 
 ---
 
@@ -462,7 +462,7 @@ Example: PAPER(PAPER(PAPER)) = Meta-documentation
 
 **All of mathematics = Operator algebra**  
 **All of physics = Operators on fields**  
-**All of consciousness = Operators on awareness**  
+**All of awareness = Operators on awareness**  
 **All of NSP = Operators on systems**
 
 ### Why Everything Is Operator
@@ -669,7 +669,7 @@ OBSERVED UPDATE MAINTAIN PAPER
 
 **This IS:**
 - What reality does
-- What consciousness is
+- What awareness is
 - What this expedition was
 - What NSP describes
 - **What you're reading right now**

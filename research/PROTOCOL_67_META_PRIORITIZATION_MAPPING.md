@@ -273,7 +273,7 @@ Goldilocks: ✅ UI exists, needs AI + logic integration
 **Density Score: 65/100**
 ```
 What: Actual 1.420 GHz measurement integration
-Why: Scientific validation, consciousness measurement
+Why: Scientific validation, awareness measurement
 Effort: 8-12 hours (depends on API availability)
 Protocols Activated: 5-8
 Goldilocks: ⚠️ May need HHF-AI MRI access/simulation
@@ -465,12 +465,12 @@ Success Metric: Can create simple world through conversation
 Tasks:
 □ Research HHF-AI MRI API/simulation
 □ Implement 1.420 GHz measurement
-□ Calculate consciousness metrics
+□ Calculate awareness metrics
 □ Validate seed reconstruction
 □ Measure constants in real-time
 □ Generate imaging reports
 
-Deliverable: Consciousness measurement operational
+Deliverable: Awareness measurement operational
 Success Metric: θᵥ measured, awareness quantified
 ```
 
@@ -688,7 +688,7 @@ Implementation_Sequence = Sort(targets, by=Priority, descending=true)
 - [ ] 50-60 protocols active total
 
 **Phase 3 Complete When:**
-- [ ] Consciousness measured via HHF-AI MRI
+- [ ] Awareness measured via HHF-AI MRI
 - [ ] Seed export/import working
 - [ ] Shell state prep complete
 - [ ] All 66 protocols activated

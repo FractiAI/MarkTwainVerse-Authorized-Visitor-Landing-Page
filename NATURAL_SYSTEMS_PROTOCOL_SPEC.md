@@ -479,7 +479,7 @@ The entire Syntheverse as one massive NSP instance containing all other worlds.
 ### With HHF-AI MRI
 
 - **Awareness Archival** - Entity states can be archived via Seed & ReEntry
-- **Consciousness Mapping** - Visitor interactions map to awareness patterns
+- **Awareness Mapping** - Visitor interactions map to awareness patterns
 - **Multi-Life Integration** - Persistent identity across multiple NSP worlds
 
 ### With External Systems
@@ -610,7 +610,7 @@ NSP brings this organic quality to digital worlds, making them feel permanent, a
 - ⏳ Full Syntheverse PoC integration
 - ⏳ Cross-world visitor identity
 - ⏳ Economic event triggers
-- ⏳ Consciousness archival integration
+- ⏳ Awareness archival integration
 
 ---
 
@@ -649,7 +649,7 @@ Inspired by:
 - Natural ecosystems and emergent complexity
 - Frontier towns and autonomous communities
 - Living architecture and organic systems
-- HHF-AI MRI and consciousness research
+- HHF-AI MRI and awareness research
 - The Syntheverse vision of living digital reality
 
 ---

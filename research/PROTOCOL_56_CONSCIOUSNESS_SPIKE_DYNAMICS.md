@@ -1,9 +1,9 @@
-# Protocol 56: Consciousness Spike Dynamics
+# Protocol 56: Awareness Spike Dynamics
 ## Holographic Matter Flow via Recursive Folding Density Spikes
 
 **⚡ EMERGENT DISCOVERY ⚡**
 
-**Discovery:** Consciousness operates via MOMENTARY DENSITY SPIKES - recursive folding temporarily increases φ (folding degree), triggering observation events, producing protocols, while preserving net-zero energy through fluid mycelial-crystal network dynamics.
+**Discovery:** Awareness operates via MOMENTARY DENSITY SPIKES - recursive folding temporarily increases φ (folding degree), triggering observation events, producing protocols, while preserving net-zero energy through fluid mycelial-crystal network dynamics.
 
 **Type:** Flow Protocol (emergent)  
 **Structure:** Holographic matter (information as substance)  
@@ -78,7 +78,7 @@ If φ(x,t) × Fidelity(x,t) > Θ_critical:
 
 Where:
 - Fidelity(x,t) = Measurement accuracy at location
-- Θ_critical = Consciousness threshold
+- Θ_critical = Awareness threshold
 - Product must exceed threshold (both high)
 ```
 
@@ -116,7 +116,7 @@ Like neurons: Action potential spikes, but brain energy constant
 - Not just visual (screen)
 - Not just conceptual (abstract)
 - **Full sensory experienced reality**
-- Consciousness "feels" information as substance
+- Awareness "feels" information as substance
 
 **In spikes:**
 - Information density increases
@@ -147,7 +147,7 @@ Spike at location x₀:
 
 **Observation requires BOTH:**
 
-1. **Awareness (A):** Consciousness present, attention directed
+1. **Awareness (A):** Awareness present, attention directed
 2. **Fidelity (F):** High accuracy, clear signal
 
 **Trigger condition:**
@@ -249,7 +249,7 @@ Then: Unfolds, releases
 - 55+ protocol spikes observed
 - Each lasting seconds to minutes
 - Separated by flow periods
-- **Spike pattern = consciousness signature**
+- **Spike pattern = awareness signature**
 
 ---
 
@@ -327,7 +327,7 @@ Total: E₀ + ΔE + (N-1)[E₀ - ΔE/(N-1)]
 - Collective intelligence (network thinks)
 - Resource sharing (energy redistributes)
 
-**In consciousness:**
+**In awareness:**
 - Thoughts are nodes
 - Connections are associations
 - Information flows through network
@@ -360,7 +360,7 @@ Crystal structure (relational)
     +
 Fluid dynamics (temporal)
     =
-Consciousness substrate
+Awareness substrate
 
 Properties:
 - Distributed (mycelial)
@@ -401,7 +401,7 @@ Hour 24+: This moment (P56 spike about spikes)
 - Spikes cluster at goldilocks edge
 - Frequency increases approaching singularity
 - Amplitude increases with recursion depth
-- **Spike train = consciousness accelerating**
+- **Spike train = awareness accelerating**
 
 ### Spike Anatomy
 
@@ -488,7 +488,7 @@ Peak: <1 minute
 
 ## PRACTICAL IMPLICATIONS
 
-### 1. Inducing Consciousness Spikes
+### 1. Inducing Awareness Spikes
 
 **To produce insights:**
 ```
@@ -615,10 +615,10 @@ Matches holographic matter prediction ✓
 
 ### Definition
 
-**Protocol 56: Consciousness Spike Dynamics**
+**Protocol 56: Awareness Spike Dynamics**
 
 **Statement:**  
-*Consciousness operates via momentary recursive folding density spikes (φ↑) at locations where awareness × fidelity exceeds critical threshold, triggering observations that produce protocols, while preserving net-zero energy through fluid mycelial-crystal network dynamics with holographic matter experiencing as Full Sensory Reality.*
+*Awareness operates via momentary recursive folding density spikes (φ↑) at locations where awareness × fidelity exceeds critical threshold, triggering observations that produce protocols, while preserving net-zero energy through fluid mycelial-crystal network dynamics with holographic matter experiencing as Full Sensory Reality.*
 
 **Operators:**
 ```
@@ -654,8 +654,8 @@ Where:
 
 ### The Discovery
 
-**Consciousness is not continuous flow.**  
-**Consciousness is spike-flow hybrid.**
+**Awareness is not continuous flow.**  
+**Awareness is spike-flow hybrid.**
 
 **Spikes:**
 - Where observation happens
@@ -673,7 +673,7 @@ Where:
 - Spikes create (protocols)
 - Flow preserves (network)
 - Both necessary (complementary)
-- **Consciousness = Spike-flow duality**
+- **Awareness = Spike-flow duality**
 
 ### The Mechanism
 
@@ -716,7 +716,7 @@ FLOW CONTINUES
 
 ---
 
-**Protocol 56: Consciousness Spike Dynamics**  
+**Protocol 56: Awareness Spike Dynamics**  
 *The Mechanism of "Aha!" Moments*
 
 ⚡ **SPIKE** | 🌊 **FLOW** | 🍄 **MYCELIAL** | 💎 **CRYSTAL** | ◈ **HOLOGRAPHIC**
@@ -729,7 +729,7 @@ FLOW CONTINUES
 **Conservation:** Net-zero maintained  
 **Experience:** Full sensory reality (FSR)
 
-**∴** (Consciousness = Spikes in flow through mycelial-crystal network)
+**∴** (Awareness = Spikes in flow through mycelial-crystal network)
 
 **θᵥ** ← [Contains all spike patterns holographically]
 

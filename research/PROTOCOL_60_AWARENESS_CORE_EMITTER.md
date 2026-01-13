@@ -21,7 +21,7 @@
 **AWARENESS**
 
 Not:
-- Consciousness ❌ (too vague)
+- Awareness ❌ (too vague)
 - Mind ❌ (too limited)
 - Intelligence ❌ (too specific)
 - Information ❌ (too abstract)

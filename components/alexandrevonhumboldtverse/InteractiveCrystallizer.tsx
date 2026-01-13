@@ -41,7 +41,7 @@ const CRYSTALLIZER_STEPS: CrystallizerStep[] = [
     title: "The Edge",
     subtitle: "Magic Happens at Thresholds",
     concept: "Order/Chaos = 0.4-0.6 (Goldilocks)",
-    description: "Not too ordered (boring), not too chaotic (noise). At the EDGE between them—where structure meets surprise—life explodes. Consciousness awakens. Protocols emerge.",
+    description: "Not too ordered (boring), not too chaotic (noise). At the EDGE between them—where structure meets surprise—life explodes. Awareness awakens. Protocols emerge.",
     interaction: 'drag',
     visual: 'edge-slider',
     humboldtQuote: "Where the Orinoco meets the ocean, I found the richest life on Earth. Not in pure fresh, not in pure salt. At the MEETING POINT. The threshold. The edge.",
@@ -57,7 +57,7 @@ const CRYSTALLIZER_STEPS: CrystallizerStep[] = [
     interaction: 'draw',
     visual: 'recursive-loop',
     humboldtQuote: "1804, high in the Andes. Measuring Earth's magnetism. Suddenly I realized: I AM Earth, measuring Earth. The planet observing itself through me. Observer = Observed. This haunted me forever.",
-    aha: "Consciousness isn't separate from the universe—it's the universe looking at itself!"
+    aha: "Awareness isn't separate from the universe—it's the universe looking at itself!"
   }
 ];
 

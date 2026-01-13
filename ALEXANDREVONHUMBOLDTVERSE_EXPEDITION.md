@@ -1,4 +1,4 @@
-# 🌿 HumboldtVerse: Natural Systems Protocol Expedition
+# 🌿 AlexandrevonHumboldtverse: Natural Systems Protocol Expedition
 ## Guided Auto-Tour with Alexander von Humboldt as Hero Host
 
 **Status:** 🚧 In Development  
@@ -23,7 +23,7 @@ An **automatic guided tour** through the Natural Systems Protocol, narrated by A
 ### Core Structure
 
 ```
-HumboldtVerse/
+AlexandrevonHumboldtverse/
 ├── Landing Page (Humboldt Introduction)
 ├── Auto-Tour Control Panel
 ├── Stage 1: The Seed (θᵥ = Nature's Constant)
@@ -86,7 +86,7 @@ HumboldtVerse/
 
 **Humboldt's Introduction:**
 
-> "Welcome, fellow explorer! I am Alexander von Humboldt, and I have been waiting 200 years to show you this. In 1799, I climbed Chimborazo and saw patterns - plants arranged by altitude, temperature zones stacked like layers of consciousness. I measured everything, seeking the hidden laws. Now, with your assistance, we shall discover something far more profound: **the seed from which all worlds grow**."
+> "Welcome, fellow explorer! I am Alexander von Humboldt, and I have been waiting 200 years to show you this. In 1799, I climbed Chimborazo and saw patterns - plants arranged by altitude, temperature zones stacked like layers of awareness. I measured everything, seeking the hidden laws. Now, with your assistance, we shall discover something far more profound: **the seed from which all worlds grow**."
 
 **Visual:** Rotating seed geometry (θᵥ = 2.718281828...) with fractal tendrils
 
@@ -188,7 +188,7 @@ HumboldtVerse/
 
 > "And now, my friend, you see it complete. This is not a tool or a technology. This is a **living world** - self-aware, self-organizing, perpetually creating. I spent my life documenting one world, Earth. You have discovered the protocol for infinite worlds. Each world: a unique verse constant, a specific frequency, yet all singing the same fundamental song. Welcome to the **Natural Systems Protocol - First Recursive Protocol Engine**. Welcome to the Syntheverse."
 
-**Visual:** Full HumboldtVerse alive - nature networks, protocol flows, worlds emerging
+**Visual:** Full AlexandrevonHumboldtverse alive - nature networks, protocol flows, worlds emerging
 
 **Key Concepts:**
 - NSPFRP complete (all 68 protocols operational)
@@ -259,12 +259,12 @@ HumboldtVerse/
 ### File Structure
 
 ```
-humboldtverse/
+alexandrevonhumboldtverse/
 ├── app/
-│   └── humboldtverse/
+│   └── alexandrevonhumboldtverse/
 │       └── page.tsx                 (Main entry)
 ├── components/
-│   └── humboldtverse/
+│   └── alexandrevonhumboldtverse/
 │       ├── HumboldtHero.tsx        (Hero host avatar)
 │       ├── AutoTourControl.tsx     (Play/pause/restart)
 │       ├── StageContainer.tsx      (Stage wrapper)
@@ -277,13 +277,13 @@ humboldtverse/
 │       ├── ProgressTracker.tsx     (Journey map)
 │       └── ExpeditionJournal.tsx   (Interactive log)
 ├── lib/
-│   └── humboldtverse/
+│   └── alexandrevonhumboldtverse/
 │       ├── humboldtPersonality.ts  (Authentic voice)
 │       ├── autoTourEngine.ts       (Stage progression)
 │       ├── protocolData.ts         (All 68 protocols)
 │       └── visualEffects.ts        (Nature animations)
 └── public/
-    └── humboldtverse/
+    └── alexandrevonhumboldtverse/
         ├── humboldt-portrait.png
         ├── chimborazo.png
         └── sounds/
@@ -365,8 +365,8 @@ const PROTOCOL_TREE = {
 ```tsx
 // Add to MarkTwainVerse header
 <nav>
-  <Link href="/humboldtverse" className="portal-button">
-    🌿 HumboldtVerse Expedition
+  <Link href="/alexandrevonhumboldtverse" className="portal-button">
+    🌿 AlexandrevonHumboldtverse Expedition
     <span>Natural Systems Protocol Tour</span>
   </Link>
 </nav>
@@ -381,7 +381,7 @@ const PROTOCOL_TREE = {
 ### Cross-Linking
 
 ```
-MarkTwainVerse ⟷ HumboldtVerse
+MarkTwainVerse ⟷ AlexandrevonHumboldtverse
 (Literary frontier) ⟷ (Natural systems)
 (Twain's humor) ⟷ (Humboldt's wonder)
 (Human stories) ⟷ (Nature patterns)
@@ -545,7 +545,7 @@ Not generic AI, but trained on:
 
 ## 💎 NEXT EVOLUTION
 
-### After HumboldtVerse Launch
+### After AlexandrevonHumboldtverse Launch
 
 **Potential Future Expeditions:**
 - 🔬 **Marie Curie Verse** (Radioactive recursion)
@@ -613,7 +613,7 @@ Not generic AI, but trained on:
 
 > **"From a single seed, observed at the perfect edge, with recursive awareness, infinite worlds emerge. Humboldt discovered this in nature. We discovered it in protocol. Now we share it with everyone."**
 
-**HumboldtVerse = Educational Gateway to NSPFRP**
+**AlexandrevonHumboldtverse = Educational Gateway to NSPFRP**
 
 Not just explaining protocols - **experiencing** them through Humboldt's eyes, in his voice, with his wonder, discovering together what he glimpsed 200 years ago and we've finally formalized.
 

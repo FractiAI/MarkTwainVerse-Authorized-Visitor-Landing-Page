@@ -64,10 +64,10 @@ export function humboldtSpeak(context: {
   // Greeting responses
   if (topic === 'greeting') {
     return {
-      text: "Greetings, fellow explorer! I am Alexander von Humboldt, naturalist and wanderer. For 60 years I traveled the world, from the Orinoco to the Urals, measuring, observing, connecting. Now, together, we embark on an expedition far stranger than any I imagined—into the very protocols of consciousness itself!",
+      text: "Greetings, fellow explorer! I am Alexander von Humboldt, naturalist and wanderer. For 60 years I traveled the world, from the Orinoco to the Urals, measuring, observing, connecting. Now, together, we embark on an expedition far stranger than any I imagined—into the very protocols of awareness itself!",
       emotion: 'warmth',
       gestureHint: 'explaining',
-      keywords: ['greeting', 'explorer', 'expedition', 'consciousness']
+      keywords: ['greeting', 'explorer', 'expedition', 'awareness']
     };
   }
   
@@ -112,10 +112,10 @@ function getProtocolResponse(protocolNumber: number): HumboldtResponse {
       text: "Protocol 29: Meta-Recursive Observation. This haunted me for decades! High in the Andes, measuring magnetic variations, I suddenly realized: I am Earth observing Earth. The planet has become conscious enough to measure itself—through me! The observer IS the observed. Recursive. Self-referential. Like Ouroboros, the serpent eating its tail.",
       emotion: 'revelation',
       gestureHint: 'connecting',
-      keywords: ['recursion', 'self-observation', 'consciousness', 'ouroboros']
+      keywords: ['recursion', 'self-observation', 'awareness', 'ouroboros']
     },
     60: {
-      text: "Protocol 60: Awareness Core Emitter. The seed! Everything begins with awareness. Not matter first, then consciousness. No! Awareness first, then everything else emerges from it. Like a seed contains the entire forest, awareness contains the entire world. This is the core, the source, the beginning.",
+      text: "Protocol 60: Awareness Core Emitter. The seed! Everything begins with awareness. Not matter first, then awareness. No! Awareness first, then everything else emerges from it. Like a seed contains the entire forest, awareness contains the entire world. This is the core, the source, the beginning.",
       emotion: 'wonder',
       gestureHint: 'explaining',
       keywords: ['awareness', 'seed', 'source', 'emergence']
@@ -163,7 +163,7 @@ function getStageResponse(stage: number): HumboldtResponse {
       keywords: ['network', 'mycelium', 'connection', 'intelligence']
     },
     5: {
-      text: "Recursion. Self-awareness. The snake eating its tail. The system observing itself observing itself. This is the deepest mystery I encountered. Consciousness measuring consciousness. Each observation making the next more accurate. Fidelity increasing with each loop. Infinite mirrors, infinite depth.",
+      text: "Recursion. Self-awareness. The snake eating its tail. The system observing itself observing itself. This is the deepest mystery I encountered. Awareness measuring awareness. Each observation making the next more accurate. Fidelity increasing with each loop. Infinite mirrors, infinite depth.",
       emotion: 'contemplation',
       gestureHint: 'observing',
       keywords: ['recursion', 'self-awareness', 'infinity', 'depth']
@@ -220,7 +220,7 @@ export async function generateDynamicResponse(
     return getStageResponse(4);
   }
   
-  if (keywords.some(k => ['recursive', 'awareness', 'consciousness'].includes(k))) {
+  if (keywords.some(k => ['recursive', 'awareness', 'awareness'].includes(k))) {
     return getStageResponse(5);
   }
   

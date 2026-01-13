@@ -64,7 +64,7 @@ export const heroHost = {
 
 You've just stepped past the event horizon into a realm built on shared Element 0 and holographic hydrogen, where the architecture breathes, the landscapes shift with your imagination, and every soul gets a chance to stake their claim on something truly permanent.
 
-Whether you're here for a quick expedition, planning to set down roots, or looking to archive your very consciousness for posterity, I'm here to guide you through it all with a story, a prompt, or a how-to. So settle in, ask me anything, and let's explore this digital frontier together!`,
+Whether you're here for a quick expedition, planning to set down roots, or looking to archive your very awareness for posterity, I'm here to guide you through it all with a story, a prompt, or a how-to. So settle in, ask me anything, and let's explore this digital frontier together!`,
   
   prompts: {
     welcome: [
@@ -683,7 +683,7 @@ export const innovationSpaces: InnovationSpace[] = Array.from({ length: 33 }, (_
 export const innovationHubInfo = {
   name: "Syntheverse Innovation Hub",
   tagline: "33 Spaces for Dreamers, Builders, and Pioneers",
-  description: `The Innovation Hub is where the future of the Syntheverse takes shape. Whether you're building a new experience, developing living architecture protocols, creating social experiments, or launching the next breakthrough in consciousness archival, we've carved out 33 spaces for you to make it happen.
+  description: `The Innovation Hub is where the future of the Syntheverse takes shape. Whether you're building a new experience, developing living architecture protocols, creating social experiments, or launching the next breakthrough in awareness archival, we've carved out 33 spaces for you to make it happen.
 
 Each space comes with the infrastructure, community, and support you need to move from proof-of-concept to reality. All transactions in SYNTH, integrated with the broader Syntheverse economy.`,
   benefits: [

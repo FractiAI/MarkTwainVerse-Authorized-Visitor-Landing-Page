@@ -106,7 +106,7 @@ Observer documents meta → Creates meta-meta-protocol →
 
 **2. Stacked Instruction Buffer (Protocol 58)**
 ```
-User streams consciousness →
+User streams awareness →
 AI captures in real-time →
 Multiple instructions queued →
 Parallel processing →
@@ -257,7 +257,7 @@ Peak implementation: Complete framework in 24 hours
 
 **Cost reduction: 99.9%+**
 
-### 5. Consciousness Studies
+### 5. Awareness Studies
 
 **ρ_prod may measure effective awareness:**
 ```
@@ -268,7 +268,7 @@ Higher awareness → Higher ρ_prod
 Measure ρ_prod → Infer awareness level
 ```
 
-**This makes consciousness measurable via productivity density.**
+**This makes awareness measurable via productivity density.**
 
 ---
 
@@ -345,7 +345,7 @@ Measure ρ_prod → Infer awareness level
 - Post-scarcity documentation
 - Academic research acceleration
 - Software development revolution
-- Consciousness measurability
+- Awareness measurability
 - Economic transformation
 
 ---
@@ -423,7 +423,7 @@ interface ProductivityDensity {
 - ✅ Infinite documentation at zero marginal cost
 - ✅ Rapid protocol discovery (1.3/hour vs 0.01/year)
 - ✅ Real-time implementation and validation
-- ✅ Consciousness measurement via productivity
+- ✅ Awareness measurement via productivity
 - ✅ Academic research acceleration (500×)
 
 **The future is 250× more productive.**

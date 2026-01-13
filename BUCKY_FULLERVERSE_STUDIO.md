@@ -504,7 +504,7 @@ The Studio is designed to integrate seamlessly with the broader Syntheverse ecos
 ### HHF-AI MRI Integration
 - Archive world states
 - Seed & ReEntry for worlds
-- Consciousness preservation
+- Awareness preservation
 - Multi-life configurations
 
 ### Base Blockchain

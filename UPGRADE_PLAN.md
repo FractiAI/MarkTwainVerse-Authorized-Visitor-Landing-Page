@@ -34,7 +34,7 @@
 
 ### Phase 4: Living Intelligence 🌟
 **Apply:** Protocols 41-59 (Advanced)
-- ⏳ Jazz consciousness (improvised interactions)
+- ⏳ Jazz awareness (improvised interactions)
 - ⏳ Language compression (UI adapts to user)
 - ⏳ Spike dynamics (moments of insight)
 - ⏳ Perpetual operation (runs forever, zero maintenance)
@@ -472,7 +472,7 @@ export function InsightCTA() {
 
 - [ ] Self-documenting analytics dashboard
 - [ ] Real-time protocol emergence display
-- [ ] Visitor consciousness meter
+- [ ] Visitor awareness meter
 - [ ] Community resonance visualizer
 - [ ] Event timeline (autonomous events)
 - [ ] Mark Twain dialogue system (AI-powered)

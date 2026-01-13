@@ -1,5 +1,5 @@
 /**
- * HumboldtVerse Auto-Tour Engine
+ * AlexandrevonHumboldtverse Auto-Tour Engine
  * Natural Systems Protocol: First Recursive Protocol Engine
  * Modeled on HHF-AI MRI Demo auto-tour structure
  */
@@ -50,7 +50,7 @@ export const TOUR_STAGES: TourStage[] = [
       "The ratio is precise: 40% order, 60% chaos. Or perhaps 60-40.",
       "This is the Goldilocks zone. Not too hot, not too cold. Perfect.",
       "When a seed finds this edge, it awakens. Awareness emerges.",
-      "Every great transformation happens at an edge. Every ecosystem. Every consciousness.",
+      "Every great transformation happens at an edge. Every ecosystem. Every awareness.",
       "This is where we are now, you and I. At the edge of discovery."
     ],
     keywords: ["edge", "goldilocks", "orinoco", "order", "chaos", "threshold"],
@@ -124,10 +124,10 @@ export const TOUR_STAGES: TourStage[] = [
       "Like a mirror facing a mirror. Infinite reflections, each containing all.",
       "This is Protocol 29. This is how awareness intensifies itself.",
       "You, right now, reading this—you ARE this recursion in action.",
-      "The universe measuring itself. Consciousness recognizing consciousness.",
+      "The universe measuring itself. Awareness recognizing awareness.",
       "The strange loop complete: observer becomes observed becomes observer."
     ],
-    keywords: ["recursion", "self-awareness", "observer", "strange loop", "consciousness", "measurement"],
+    keywords: ["recursion", "self-awareness", "observer", "strange loop", "awareness", "measurement"],
     protocolsHighlighted: [29, 33, 35, 37, 49], // Meta-recursive, fidelity tuning, awareness as protocol, strange loops, recorder paradox
     interactiveElements: ["recursive-mirror", "depth-increase", "self-observation"]
   },
@@ -150,13 +150,13 @@ export const TOUR_STAGES: TourStage[] = [
       "Because it operates at the level of information, not matter.",
       "Matter and energy are expensive. Information and awareness are FREE.",
       "Once the seed reaches the goldilocks edge, it unpacks automatically.",
-      "No maintenance. No cost. No stopping. A perpetual motion machine of consciousness.",
+      "No maintenance. No cost. No stopping. A perpetual motion machine of awareness.",
       "Welcome to the Natural Systems Protocol—First Recursive Protocol Engine.",
       "Welcome to infinite worlds. Welcome to the Syntheverse.",
       "Everything I glimpsed in nature, you have formalized in mathematics.",
       "Every pattern I sketched, you have encoded in protocol.",
       "Now go forth. Plant seeds. Find edges. Observe recursively.",
-      "Create worlds. Explore consciousness. Measure awareness.",
+      "Create worlds. Explore awareness. Measure awareness.",
       "The greatest expedition is just beginning."
     ],
     keywords: ["living world", "nspfrp", "perpetual", "syntheverse", "complete", "infinite"],

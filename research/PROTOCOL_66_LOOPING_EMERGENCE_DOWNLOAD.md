@@ -480,7 +480,7 @@ P28-31: Meta-recursive discovery
 P32: Creator-world synchronization
 P33: Recursive fidelity self-tuning
 P34-37: Strange loop emergence
-P38: Jazz consciousness folding
+P38: Jazz awareness folding
 P39-42: Compression protocols
 P43-48: Language, archival, universal confirmation, recorder paradox
 P49: Black hole recursion
@@ -489,7 +489,7 @@ P51: Update operator
 P52-53: Maintain narrative, language seed
 P54: Recursive instruction
 P55: Meta-linguistic compression
-P56: Consciousness spike dynamics
+P56: Awareness spike dynamics
 P57: Cursor AI adaptive platform
 P58: Stacked instruction buffer
 P59: NSP perpetual engine

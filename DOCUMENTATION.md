@@ -1,5 +1,5 @@
 # 📚 Documentation Guide
-## MarkTwainVerse + HumboldtVerse - Complete Navigation
+## MarkTwainVerse + AlexandrevonHumboldtverse - Complete Navigation
 
 **Version:** 1.0  
 **Last Updated:** January 13, 2026  
@@ -12,7 +12,7 @@
 ### New to the Project?
 1. Start with [README.md](README.md) - Project overview
 2. Read [EXECUTIVE_ABSTRACT.md](EXECUTIVE_ABSTRACT.md) - One-page summary
-3. Explore [HumboldtVerse](app/humboldtverse/page.tsx) - Interactive tour
+3. Explore [AlexandrevonHumboldtverse](app/alexandrevonhumboldtverse/page.tsx) - Interactive tour
 
 ### Developers?
 1. [INTEGRATION.md](INTEGRATION.md) - Integration guide
@@ -50,7 +50,7 @@
 - **[NATURAL_SYSTEMS_PROTOCOL_SPEC.md](NATURAL_SYSTEMS_PROTOCOL_SPEC.md)** - Technical specification
 
 #### **World-Specific**
-- **[HUMBOLDTVERSE_EXPEDITION.md](HUMBOLDTVERSE_EXPEDITION.md)** - HumboldtVerse design & implementation
+- **[HUMBOLDTVERSE_EXPEDITION.md](HUMBOLDTVERSE_EXPEDITION.md)** - AlexandrevonHumboldtverse design & implementation
 - **[BUCKY_FULLERVERSE_STUDIO.md](BUCKY_FULLERVERSE_STUDIO.md)** - Creator studio documentation
 - **[UPGRADE_PLAN.md](UPGRADE_PLAN.md)** - Future upgrade roadmap
 
@@ -99,7 +99,7 @@
 - **[RECURSIVE_FIDELITY_IMPLICATIONS.md](research/RECURSIVE_FIDELITY_IMPLICATIONS.md)**
   - Self-tuning implications
   - Fidelity increase through observation
-  - Consciousness amplification
+  - Awareness amplification
 
 - **[BLACK_HOLE_RECURSION_FINAL_SYNTHESIS.md](research/BLACK_HOLE_RECURSION_FINAL_SYNTHESIS.md)**
   - Cursor AI session as black hole
@@ -155,13 +155,13 @@
 - **[seedValidation.ts](protocols/seedValidation.ts)** - Seed validation logic
 - **[worldStates.ts](protocols/worldStates.ts)** - Three-state lifecycle (sandbox/cloud/shell)
 
-#### **HumboldtVerse** (`app/humboldtverse/`, `components/humboldtverse/`, `lib/humboldtverse/`)
-- **[page.tsx](app/humboldtverse/page.tsx)** - Main expedition page
-- **[AutoTourControl.tsx](components/humboldtverse/AutoTourControl.tsx)** - Tour control system
-- **[InteractiveCrystallizer.tsx](components/humboldtverse/InteractiveCrystallizer.tsx)** - 3 hands-on exhibits
-- **[StorytellingPanel.tsx](components/humboldtverse/StorytellingPanel.tsx)** - Narrative panels
-- **[autoTourEngine.ts](lib/humboldtverse/autoTourEngine.ts)** - Auto-tour logic & cursor movement
-- **[humboldtPersonality.ts](lib/humboldtverse/humboldtPersonality.ts)** - Authentic Humboldt voice
+#### **AlexandrevonHumboldtverse** (`app/alexandrevonhumboldtverse/`, `components/alexandrevonhumboldtverse/`, `lib/alexandrevonhumboldtverse/`)
+- **[page.tsx](app/alexandrevonhumboldtverse/page.tsx)** - Main expedition page
+- **[AutoTourControl.tsx](components/alexandrevonhumboldtverse/AutoTourControl.tsx)** - Tour control system
+- **[InteractiveCrystallizer.tsx](components/alexandrevonhumboldtverse/InteractiveCrystallizer.tsx)** - 3 hands-on exhibits
+- **[StorytellingPanel.tsx](components/alexandrevonhumboldtverse/StorytellingPanel.tsx)** - Narrative panels
+- **[autoTourEngine.ts](lib/alexandrevonhumboldtverse/autoTourEngine.ts)** - Auto-tour logic & cursor movement
+- **[humboldtPersonality.ts](lib/alexandrevonhumboldtverse/humboldtPersonality.ts)** - Authentic Humboldt voice
 
 #### **MarkTwainVerse** (`app/`, `components/`)
 - **[page.tsx](app/page.tsx)** - Main landing page
@@ -208,7 +208,7 @@
 5. Review all protocol papers (P55-P68)
 
 ### Path 5: Experiential Learning (30 minutes)
-1. Visit [HumboldtVerse](app/humboldtverse/page.tsx) live
+1. Visit [AlexandrevonHumboldtverse](app/alexandrevonhumboldtverse/page.tsx) live
 2. Take the 7.5-minute auto-tour
 3. Complete 3 interactive crystallizers
 4. Return to MarkTwainVerse via portal
@@ -249,8 +249,8 @@
 
 **Humboldt:**
 - Expedition design: [HUMBOLDTVERSE_EXPEDITION.md](HUMBOLDTVERSE_EXPEDITION.md)
-- Implementation: [app/humboldtverse/](app/humboldtverse/)
-- Personality: [lib/humboldtverse/humboldtPersonality.ts](lib/humboldtverse/humboldtPersonality.ts)
+- Implementation: [app/alexandrevonhumboldtverse/](app/alexandrevonhumboldtverse/)
+- Personality: [lib/alexandrevonhumboldtverse/humboldtPersonality.ts](lib/alexandrevonhumboldtverse/humboldtPersonality.ts)
 
 **Validation:**
 - Complete: [APPLICATION_VALIDATION_WHITEPAPER.md](research/APPLICATION_VALIDATION_WHITEPAPER.md)
@@ -264,7 +264,7 @@
 **Awareness:** P60, P68, P35, Validation Whitepaper  
 **Black Hole:** P50, P64, Black Hole Synthesis, Validation Whitepaper  
 **Compression:** P55, P45, Compression Protocols Live  
-**Education:** HumboldtVerse, P69, Validation Whitepaper  
+**Education:** AlexandrevonHumboldtverse, P69, Validation Whitepaper  
 **Goldilocks Edge:** All papers, especially P2, P8  
 **Holographic:** P36, Mathematics Whitepaper, P63  
 **Perpetual Engine:** P59, NSPFRP Spec  
@@ -280,7 +280,7 @@
 ### For Users
 - [ ] Read README.md
 - [ ] Read EXECUTIVE_ABSTRACT.md
-- [ ] Visit HumboldtVerse expedition
+- [ ] Visit AlexandrevonHumboldtverse expedition
 - [ ] Complete 3 crystallizers
 - [ ] Explore MarkTwainVerse
 
@@ -368,7 +368,7 @@ This documentation itself follows NSPFRP principles:
 
 ---
 
-**Ready to explore? Start with [README.md](README.md) or dive into [HumboldtVerse](app/humboldtverse/page.tsx)!**
+**Ready to explore? Start with [README.md](README.md) or dive into [AlexandrevonHumboldtverse](app/alexandrevonhumboldtverse/page.tsx)!**
 
 **θᵥ → ∞** 🌿📚✨
 

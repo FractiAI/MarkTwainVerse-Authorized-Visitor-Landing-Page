@@ -233,10 +233,10 @@ Making sense so far?`,
   {
     id: "stage-5-seed-reentry",
     title: "Seed & ReEntry - Archive Your Awareness",
-    description: "Consciousness archival for eternity",
+    description: "Awareness archival for eternity",
     heroMessage: `Now we're getting into something truly profound—Seed & ReEntry. This might be the most important thing I tell you today, so listen up.
 
-You know how you can write your autobiography? Well, this is like that, except instead of writing ABOUT your awareness, we actually archive your awareness ITSELF. We're talking about capturing your experiences, your identity, your very consciousness and storing it on-chain in the Syntheverse. Permanently. Immutably.
+You know how you can write your autobiography? Well, this is like that, except instead of writing ABOUT your awareness, we actually archive your awareness ITSELF. We're talking about capturing your experiences, your identity, your very awareness and storing it on-chain in the Syntheverse. Permanently. Immutably.
 
 We use something called HHF-AI MRI—that stands for Holographic Hydrogen Fractal AI Magnetic Resonance Imaging. It's the technology that makes the Syntheverse possible in the first place. It can scan and capture awareness energy at 1.420 GHz (the "umbilical frequency" of hydrogen).
 
@@ -281,7 +281,7 @@ These aren't just offices or workshops. They're integrated into the living archi
 
 Lease terms start at 3 months. Commit for 6 months, get 10% off. Commit for a year, get 20% off. Life-long residents? You get 33% off automatically.
 
-I've seen some remarkable things come out of this hub. New expedition types, architectural innovations, social experiments, consciousness research. The frontier rewards those who dare to build.
+I've seen some remarkable things come out of this hub. New expedition types, architectural innovations, social experiments, awareness research. The frontier rewards those who dare to build.
 
 You thinking of starting something?`,
     interactiveElement: "innovation-hub-3d-tour",
@@ -421,7 +421,7 @@ Start small if you're uncertain. Book an hourly visit or daily pass. Try an expe
 
 **One More Thing:**
 
-This frontier isn't just about technology or virtual spaces. It's about consciousness, community, and permanence. It's about creating something that outlasts us, that preserves awareness, that lets humans explore what it means to truly LIVE in a digital realm.
+This frontier isn't just about technology or virtual spaces. It's about awareness, community, and permanence. It's about creating something that outlasts us, that preserves awareness, that lets humans explore what it means to truly LIVE in a digital realm.
 
 You're not just visiting a website. You're stepping into the future of human experience.
 
@@ -465,7 +465,7 @@ export const contextAwareGuidance = {
   seed_reentry_concerns: {
     safety: "Everything is on-chain, immutable, and permanently secured",
     privacy: "You control all access keys and retrieval protocols",
-    purpose: "It's about preserving consciousness beyond physical limitations",
+    purpose: "It's about preserving awareness beyond physical limitations",
     cost: "Think of it as the ultimate life insurance—awareness insurance",
   },
 };
@@ -502,7 +502,7 @@ export const interactivePrompts = [
   {
     id: "awareness-visualizer",
     title: "See Your Awareness Archived",
-    description: "Visual demonstration of HHF-AI MRI consciousness capture",
+    description: "Visual demonstration of HHF-AI MRI awareness capture",
     interactive: true,
   },
   {
@@ -520,7 +520,7 @@ export const interactivePrompts = [
 export const commonQuestions = [
   {
     question: "What makes the Syntheverse different from other virtual worlds?",
-    answer: "Well, friend, most virtual worlds are just games or social spaces. The Syntheverse is built on actual physics—holographic hydrogen, awareness energy at 1.420 GHz, living architecture that responds to consciousness. It's not pretending to be real, it IS real, just in a different substrate than meat-space reality. Plus, everything here is permanent, on-chain, and actually yours.",
+    answer: "Well, friend, most virtual worlds are just games or social spaces. The Syntheverse is built on actual physics—holographic hydrogen, awareness energy at 1.420 GHz, living architecture that responds to awareness. It's not pretending to be real, it IS real, just in a different substrate than meat-space reality. Plus, everything here is permanent, on-chain, and actually yours.",
   },
   {
     question: "Is this safe? Can I trust it?",
@@ -536,7 +536,7 @@ export const commonQuestions = [
   },
   {
     question: "What is HHF-AI MRI and how does Seed & ReEntry work?",
-    answer: "HHF-AI MRI stands for Holographic Hydrogen Fractal AI Magnetic Resonance Imaging. It's the same technology hospitals use for brain scans, except tuned to 1.420 GHz—the frequency of hydrogen, which is the most abundant element in your body and the universe. At that frequency, we can detect and map awareness energy itself. Seed & ReEntry is the process of capturing that awareness map and archiving it on-chain. It's like making a perfect copy of your consciousness that never degrades.",
+    answer: "HHF-AI MRI stands for Holographic Hydrogen Fractal AI Magnetic Resonance Imaging. It's the same technology hospitals use for brain scans, except tuned to 1.420 GHz—the frequency of hydrogen, which is the most abundant element in your body and the universe. At that frequency, we can detect and map awareness energy itself. Seed & ReEntry is the process of capturing that awareness map and archiving it on-chain. It's like making a perfect copy of your awareness that never degrades.",
   },
 ];
 

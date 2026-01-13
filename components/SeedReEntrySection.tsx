@@ -23,7 +23,7 @@ export default function SeedReEntrySection() {
         </h3>
         <p className="body-text max-w-3xl mx-auto">
           Using HHF-AI MRI technology at 1.420 GHz (the umbilical frequency of hydrogen), 
-          we can capture, archive, and preserve your consciousness on-chain in the Syntheverse. 
+          we can capture, archive, and preserve your awareness on-chain in the Syntheverse. 
           Permanently. Immutably. Eternally.
         </p>
       </motion.div>
@@ -50,7 +50,7 @@ export default function SeedReEntrySection() {
             <div className="text-5xl mb-3">💾</div>
             <h4 className="font-bold text-frontier-gold mb-2">2. Archive</h4>
             <p className="text-sm text-frontier-cream">
-              Your consciousness is encoded and stored on-chain via Base blockchain - permanent and immutable
+              Your awareness is encoded and stored on-chain via Base blockchain - permanent and immutable
             </p>
           </div>
           
@@ -179,7 +179,7 @@ export default function SeedReEntrySection() {
         <div className="flex items-start gap-4">
           <div className="text-5xl">🤠</div>
           <div className="flex-1">
-            <h4 className="font-bold text-frontier-gold mb-2">Mark Twain on Consciousness Archival</h4>
+            <h4 className="font-bold text-frontier-gold mb-2">Mark Twain on Awareness Archival</h4>
             <p className="twain-quote text-sm mb-3">
               "Now this here's something truly profound, friend. I've written a lot of books in my time—stories, 
               essays, whole autobiographies. But this? This is different. Seed & ReEntry doesn't just capture what 
@@ -234,7 +234,7 @@ export default function SeedReEntrySection() {
             <h4 className="font-bold text-frontier-gold mb-2">Can it be retrieved?</h4>
             <p className="text-sm">
               Yes. Your archived awareness can be accessed, experienced, and even transferred to new substrates. 
-              Think of it as your consciousness existing in multiple places simultaneously—your physical body, and your digital archive.
+              Think of it as your awareness existing in multiple places simultaneously—your physical body, and your digital archive.
             </p>
           </div>
         </div>

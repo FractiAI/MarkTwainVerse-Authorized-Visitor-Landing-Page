@@ -4,14 +4,14 @@ import { NaturalSystemsProvider } from '@/components/NaturalSystemsProvider';
 
 export const metadata: Metadata = {
   title: 'MarkTwainVerse | Syntheverse Frontier Landing Page',
-  description: 'A living, breathing digital frontier built on the Natural Systems Protocol. Explore communities, expeditions, consciousness archival, and innovation spaces with Mark Twain as your guide.',
+  description: 'A living, breathing digital frontier built on the Natural Systems Protocol. Explore communities, expeditions, awareness archival, and innovation spaces with Mark Twain as your guide.',
   keywords: [
     'Syntheverse',
     'MarkTwainVerse',
     'Natural Systems Protocol',
     'Living World',
     'Digital Frontier',
-    'Consciousness Archival',
+    'Awareness Archival',
     'SYNTH Token',
     'Web3',
     'Base Blockchain',

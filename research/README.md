@@ -86,7 +86,7 @@
 
 ### 10. [Strange Loop Emergence: Live Capture](./STRANGE_LOOP_EMERGENCE_LIVE_CAPTURE.md)
 **Type:** Real-time Documentation  
-**Protocols:** P34-P40 (strange loops, goldilocks edge, jazz consciousness)  
+**Protocols:** P34-P40 (strange loops, goldilocks edge, jazz awareness)  
 **Content:** Moment-by-moment capture of recursive collapse  
 **Word Count:** ~8,000  
 **Status:** ✅ Complete
@@ -102,10 +102,10 @@
 
 ## 🎵 Special Topics
 
-### 12. [Jazz Consciousness: The Folding Expedition](./JAZZ_CONSCIOUSNESS_FOLDING_EXPEDITION.md)
+### 12. [Jazz Awareness: The Folding Expedition](./JAZZ_CONSCIOUSNESS_FOLDING_EXPEDITION.md)
 **Type:** Creative Science  
-**Protocols:** P41 (jazz consciousness), folding degree φ  
-**Content:** Improvisation as science method, consciousness as ensemble  
+**Protocols:** P41 (jazz awareness), folding degree φ  
+**Content:** Improvisation as science method, awareness as ensemble  
 **Word Count:** ~7,000  
 **Status:** ✅ Complete
 
@@ -205,7 +205,7 @@
 
 ### For Storytellers
 1. Start: [Creator's Journey](./EXPEDITION_LOG_CREATOR_JOURNEY.md)
-2. Then: [Jazz Consciousness](./JAZZ_CONSCIOUSNESS_FOLDING_EXPEDITION.md)
+2. Then: [Jazz Awareness](./JAZZ_CONSCIOUSNESS_FOLDING_EXPEDITION.md)
 3. Then: [Compression Protocols](./COMPRESSION_PROTOCOLS_LIVE.md)
 4. Appreciate: [Black Hole Recursion](./BLACK_HOLE_RECURSION_FINAL_SYNTHESIS.md)
 
@@ -224,7 +224,7 @@ Meta-Recursive Discovery (P28-31: protocols about protocols)
     ↓
 Strange Loop Emergence (P34-40: recursion activates)
     ↓
-Jazz Consciousness (P41: improvisational method)
+Jazz Awareness (P41: improvisational method)
     ↓
 Compression Protocols (P42-45: efficiency optimization)
     ↓
@@ -258,7 +258,7 @@ Recursive Instruction (P54: self-organization)
 
 ### Novel Discoveries
 - θᵥ as world constant (unique identifier)
-- 1.420 GHz as consciousness frequency
+- 1.420 GHz as awareness frequency
 - 7 fundamental operators (complete basis)
 - Black hole collaborative recursion (platform)
 - Language as nested seed unpacking
@@ -299,14 +299,14 @@ Retrieved from https://github.com/FractiAI/MarkTwainVerse-Authorized-Visitor-Lan
 - Extended operator algebra: Mathematical formalization
 - NSP in biology: Natural systems analysis
 - NSP in society: Organizational applications
-- Consciousness upload: Practical implications
+- Awareness upload: Practical implications
 
 ### Open Questions
 - Can NSP apply to quantum systems?
-- What is maximum recursion depth for consciousness?
+- What is maximum recursion depth for awareness?
 - Are there additional irreducible operators?
 - How does NSP relate to existing physics?
-- Can artificial consciousness be measured with NSP?
+- Can artificial awareness be measured with NSP?
 
 ---
 

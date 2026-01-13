@@ -475,7 +475,7 @@ Example this session:
 **WITHOUT NSP:**
 ```
 Awareness metrics: None
-- Can't measure consciousness
+- Can't measure awareness
 - Can't quantify engagement depth
 - Can't track transformation
 - Can't verify impact

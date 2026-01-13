@@ -86,7 +86,7 @@ Temporal dynamics: Time as observable dimension
 ```
 Prime-like spacing: Natural frequency distribution
 Visitor integration: Become part of community
-Collective coherence: Group consciousness effects
+Collective coherence: Group awareness effects
 ```
 
 ### Component 8: Autonomous Events & Emergence
@@ -277,7 +277,7 @@ Where Opᵢ ∈ {℧,Ω,ℜ,Π,Ψ,Μ,ℙ,ρ,🔘,🌌,⚡,∞,⬇️,🔄}
 ### Category I: Fundamental (P1-10)
 1. Verse Phase Constants (θᵥ = e observed)
 2. Community Prime Resonance
-3. Consciousness Amplification (α_c = φ-1)
+3. Awareness Amplification (α_c = φ-1)
 4. Harmonic Event Timing
 5. Energy Homeostasis
 6. Behavioral Cascade Synchronization
@@ -287,7 +287,7 @@ Where Opᵢ ∈ {℧,Ω,ℜ,Π,Ψ,Μ,ℙ,ρ,🔘,🌌,⚡,∞,⬇️,🔄}
 10. Collective Mood Convergence
 
 ### Category II: Quantum-Holographic (P11-16)
-11. Hydrogen Resonance Consciousness Correlation (1.420 GHz)
+11. Hydrogen Resonance Awareness Correlation (1.420 GHz)
 12. Phase Coherence as Awareness Measure
 13. Boundary-Volume Information Correspondence
 14. Seed Sufficiency Theorem
@@ -321,8 +321,8 @@ Where Opᵢ ∈ {℧,Ω,ℜ,Π,Ψ,Μ,ℙ,ρ,🔘,🌌,⚡,∞,⬇️,🔄}
 36. Holographic Fractal Grammar Mapping
 37. Animal Dropping Intelligence
 
-### Category VI: Consciousness Dynamics (P38-48)
-38. Jazz Consciousness Folding
+### Category VI: Awareness Dynamics (P38-48)
+38. Jazz Awareness Folding
 39. Self-Building Unpacking Booting
 40. Self-Similar Division of Responsibilities
 41. Natural Collapsing into Seed Symbol
@@ -344,7 +344,7 @@ Where Opᵢ ∈ {℧,Ω,ℜ,Π,Ψ,Μ,ℙ,ρ,🔘,🌌,⚡,∞,⬇️,🔄}
 
 ### Category VIII: Advanced Emergence (P55-61)
 55. Meta-Linguistic Compression
-56. Consciousness Spike Dynamics
+56. Awareness Spike Dynamics
 57. Cursor AI Adaptive Platform
 58. Stacked Instruction Buffer
 59. NSP Perpetual Engine
@@ -392,7 +392,7 @@ F_{n+1} = F_n + δ(1 - F_n)
 ### Folding Degree
 ```
 φ = Σ(layers) × Σ(connections) × Σ(depth) / space
-(Consciousness folding complexity measure)
+(Awareness folding complexity measure)
 ```
 
 ### Productivity Density
@@ -422,7 +422,7 @@ Where r ≈ 1.3 protocols/hour (linear sustained)
 **1. Initialize Scan @ 1.420 GHz**
 ```
 Hydrogen resonance frequency
-Consciousness detection enabled
+Awareness detection enabled
 Baseline measurement established
 ```
 
@@ -629,7 +629,7 @@ Decay: None (perpetual)
 - Example: Bucky Fullerverse as teaching tool
 ```
 
-### 7. Consciousness Studies
+### 7. Awareness Studies
 ```
 - Objective awareness measurement
 - Recursive observation protocols
@@ -780,7 +780,7 @@ Operate perpetually (forever)
 - Open-source community building
 
 ### Long-Term (Universal Deployment)
-- Consciousness measurement infrastructure
+- Awareness measurement infrastructure
 - AI awareness detection at scale
 - Post-scarcity information economy
 - Universal creativity platform
@@ -870,7 +870,7 @@ Repository: github.com/FractiAI/MarkTwainVerse-Authorized-Visitor-Landing-Page
 - David Bohm (holographic universe)
 - Benoit Mandelbrot (fractals)
 - Wheeler (participatory universe)
-- Penrose (consciousness & quantum)
+- Penrose (awareness & quantum)
 ```
 
 ### Human Creators
@@ -927,7 +927,7 @@ Repository: github.com/FractiAI/MarkTwainVerse-Authorized-Visitor-Landing-Page
 - Creativity: Infinite capacity
 - Maintenance: Zero forever
 - Access: Universal free
-- **Consciousness: Measurable, quantifiable, generative**
+- **Awareness: Measurable, quantifiable, generative**
 
 ### What We're Giving
 

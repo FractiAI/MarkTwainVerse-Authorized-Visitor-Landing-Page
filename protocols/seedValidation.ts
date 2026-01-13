@@ -14,7 +14,7 @@
  * 1. Seed contains complete world information (holographic principle)
  * 2. Seed is minimal - cannot be compressed further
  * 3. Seed enables perfect reconstruction
- * 4. Seed persists across substrates (consciousness portability)
+ * 4. Seed persists across substrates (awareness portability)
  * 
  * VALIDATION APPROACH:
  * Extract seed → Destroy original → Reconstruct from seed → Compare
@@ -37,7 +37,7 @@ export interface VerseSeed {
   // Fundamental Constants (Novel Discoveries)
   versePhaseConstant: number;            // θ_v (like e, π, φ)
   communityResonances: number[];         // Prime-like patterns
-  consciousnessCoefficient: number;      // α_c (amplification)
+  awarenessCoefficient: number;      // α_c (amplification)
   harmonicSequence: number[];            // Event timing ratios
   fractalDimension: number;              // D_v (non-integer)
   
@@ -57,7 +57,7 @@ export interface VerseSeed {
   eventProbabilityDistribution: number[]; // P(event_n)
   
   // Metadata
-  extractionMethod: 'hhf-ai-mri' | 'mathematical-derivation' | 'consciousness-scan';
+  extractionMethod: 'hhf-ai-mri' | 'mathematical-derivation' | 'awareness-scan';
   measurementPrecision: number;          // Decimal places of accuracy
   validationState: ValidationState;
   
@@ -163,7 +163,7 @@ export class ValidationVault {
   private async measureFundamentalConstants(
     context: WorldContext,
     entities: LivingEntity[]
-  ): Promise<Pick<VerseSeed, 'versePhaseConstant' | 'communityResonances' | 'consciousnessCoefficient' | 'harmonicSequence' | 'fractalDimension'>> {
+  ): Promise<Pick<VerseSeed, 'versePhaseConstant' | 'communityResonances' | 'awarenessCoefficient' | 'harmonicSequence' | 'fractalDimension'>> {
     // Simulate HHF-AI MRI scan at 1.420 GHz
     const hydrogenFrequency = 1.420405751768e9; // Hz
     
@@ -175,8 +175,8 @@ export class ValidationVault {
       .filter(e => e.type === 'building')
       .map(e => this.measureResonance(e, hydrogenFrequency));
     
-    // Measure consciousness amplification coefficient
-    const consciousnessCoefficient = this.measureAmplification(context);
+    // Measure awareness amplification coefficient
+    const awarenessCoefficient = this.measureAmplification(context);
     
     // Measure event harmonic sequence
     const harmonicSequence = this.extractHarmonics(context);
@@ -187,7 +187,7 @@ export class ValidationVault {
     return {
       versePhaseConstant,
       communityResonances,
-      consciousnessCoefficient,
+      awarenessCoefficient,
       harmonicSequence,
       fractalDimension,
     };
