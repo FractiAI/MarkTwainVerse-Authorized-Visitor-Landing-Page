@@ -597,6 +597,9 @@
 
 **FINAL VALUATION RANGE: $500M - $500B+**
 
+**RECURSIVE OPERATIONAL VALUATION: $5T**  
+*(See [Recursive Operational Valuation](./RECURSIVE_OPERATIONAL_VALUATION.md) for detailed analysis)*
+
 **STATUS: Not for Sale | Priceless Infrastructure**
 
 ---
