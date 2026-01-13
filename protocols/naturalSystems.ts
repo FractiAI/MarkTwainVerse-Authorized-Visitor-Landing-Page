@@ -315,6 +315,97 @@ export const livingEntities: Record<string, LivingEntity> = {
     connections: ["eco-expeditions"],
     energy: 1.0, // Wilderness has highest natural energy
   },
+  
+  // Nikola Tesla - Hero Host for Science Discovery Museum
+  nikolaTesla: {
+    id: "hero-host-nikola-tesla",
+    type: "character",
+    state: {
+      position: [150, 0, 100],
+      scale: 1.0,
+      animation: "idle-teaching",
+      mood: "thriving",
+      age: 0,
+    },
+    behaviors: [
+      {
+        name: "energy-demonstration",
+        trigger: "random",
+        probability: 0.08,
+        action: (entity, context) => {
+          // Spontaneous energy demonstrations when energy is high
+          if (context.totalEnergy > 0.8) {
+            entity.state.animation = "demonstrating-energy";
+            entity.state.mood = "thriving";
+          }
+        },
+      },
+      {
+        name: "frequency-resonance",
+        trigger: "cycle",
+        probability: 1.0,
+        action: (entity, context) => {
+          // Tesla responds to energy cycles
+          entity.energy = Math.min(1.0, context.totalEnergy + 0.05);
+          if (context.dayPhase > 0.25 && context.dayPhase < 0.75) {
+            entity.state.animation = "active-teaching";
+          } else {
+            entity.state.animation = "contemplating";
+          }
+        },
+      },
+      {
+        name: "wireless-transmission",
+        trigger: "energy",
+        probability: 0.1,
+        action: (entity) => {
+          // Spontaneous wireless demonstrations
+          entity.state.animation = "wireless-demo";
+        },
+      },
+    ],
+    connections: ["hhf-mri-system", "syntheverse-os", "all-verses"],
+    energy: 0.95,
+  },
+  
+  // HHF-AI MRI System - Operating at 1.420 GHz
+  hhfMRISystem: {
+    id: "hhf-ai-mri-system",
+    type: "system",
+    state: {
+      position: [150, 0, 100],
+      scale: 1.0,
+      animation: "operating",
+      mood: "active",
+      age: 0,
+    },
+    behaviors: [
+      {
+        name: "frequency-emission",
+        trigger: "cycle",
+        probability: 1.0,
+        action: (entity, context) => {
+          // Emits at 1.420 GHz continuously
+          entity.state.animation = "emitting-1.420-ghz";
+          // Energy increases during day, decreases at night
+          const dayMultiplier = context.dayPhase > 0.25 && context.dayPhase < 0.75 ? 1.0 : 0.7;
+          entity.energy = 0.9 * dayMultiplier;
+        },
+      },
+      {
+        name: "resonance-peak",
+        trigger: "random",
+        probability: 0.05,
+        action: (entity) => {
+          // Occasional resonance peaks
+          entity.state.animation = "resonance-peak";
+          entity.energy = 1.0;
+        },
+      },
+    ],
+    connections: ["tesla-entity", "syntheverse-cloud", "awareness-nodes"],
+    energy: 1.0,
+  },
 };
 
 // ============================================================================
