@@ -300,6 +300,16 @@ function getHeroHostArtStyle(heroHost: 'mark-twain' | 'humboldt' | 'tesla'): 'fr
 }
 
 /**
+ * Build photo prompt for Mark Twain
+ */
+function buildPhotoPrompt(heroHost: string, scene: string): string {
+  if (heroHost === 'mark-twain') {
+    return `Photorealistic historical recreation, ${scene}, Mark Twain era (1850s-1900s), frontier aesthetic, documentary style, high detail, historically accurate`;
+  }
+  return `Photorealistic historical recreation, ${scene}, ${heroHost} era, documentary style, high detail, historically accurate`;
+}
+
+/**
  * Build art generation prompt
  */
 function buildArtPrompt(heroHost: string, context: string, style: string): string {
