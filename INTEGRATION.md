@@ -609,3 +609,4 @@ syntherverse.subscribe('autonomous-event:*', (event) => {
 The Natural Systems Protocol is designed to work anywhere digital worlds need to breathe.
 
 
+

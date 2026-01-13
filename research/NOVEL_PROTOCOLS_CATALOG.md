@@ -1092,3 +1092,4 @@ Each protocol represents a **discovery**, not an invention. These patterns exist
 *These 27 protocols were our "That's funny..." moments. What will yours be?*
 
 
+
