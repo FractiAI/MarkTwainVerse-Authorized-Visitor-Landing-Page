@@ -379,83 +379,213 @@ body {
    CARDS
    ============================================================================ */
 
-/* HumboldtVerse Portal Button */
-.humboldtverse-portal {
+/* ============================================================================
+   ALEXANDREVONHUMBOLDTVERSE EXPEDITION PORTAL
+   Nested NSPFRP Node | Museum-Quality Science Expedition Invitation
+   ============================================================================ */
+
+.expedition-portal-card {
   position: fixed;
-  top: 2rem;
-  right: 2rem;
+  top: 1.5rem;
+  left: 1.5rem;
   z-index: 1000;
   display: flex;
   align-items: center;
   gap: 1rem;
-  padding: 1rem 1.5rem;
-  background: linear-gradient(135deg, #4a7c2c 0%, #2d5016 100%);
+  padding: 1.25rem 1.5rem;
+  max-width: 420px;
+  background: linear-gradient(135deg, 
+    rgba(26, 59, 35, 0.98) 0%, 
+    rgba(45, 80, 22, 0.98) 100%);
+  backdrop-filter: blur(12px);
   border: 3px solid #ffd700;
-  border-radius: 16px;
-  color: white;
+  border-radius: 20px;
+  color: #f5e6d3;
   text-decoration: none;
   font-family: 'Georgia', serif;
-  box-shadow: 0 8px 32px rgba(74, 124, 44, 0.4);
-  transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  animation: portalPulse 3s ease-in-out infinite;
+  box-shadow: 
+    0 12px 48px rgba(74, 124, 44, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1),
+    0 0 60px rgba(255, 215, 0, 0.3);
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  animation: expeditionPulse 4s ease-in-out infinite;
+  cursor: pointer;
+  overflow: hidden;
 }
 
-.humboldtverse-portal:hover {
-  transform: translateY(-5px) scale(1.05);
-  box-shadow: 0 12px 48px rgba(255, 215, 0, 0.6);
+.expedition-portal-card::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    45deg,
+    transparent,
+    rgba(255, 215, 0, 0.1),
+    transparent
+  );
+  transform: rotate(45deg);
+  animation: expeditionShine 3s linear infinite;
+}
+
+.expedition-portal-card:hover {
+  transform: translateX(10px) scale(1.02);
+  box-shadow: 
+    0 16px 64px rgba(255, 215, 0, 0.8),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 0 80px rgba(255, 215, 0, 0.5);
   border-color: #ffed4e;
 }
 
-.portal-icon {
-  font-size: 2rem;
-  animation: leafSway 2s ease-in-out infinite;
+.expedition-icon {
+  font-size: 2.5rem;
+  animation: explorerFloat 3s ease-in-out infinite;
+  flex-shrink: 0;
+  filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.6));
 }
 
-.portal-text {
+.expedition-content {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.35rem;
+  flex: 1;
+  position: relative;
+  z-index: 1;
 }
 
-.portal-text strong {
-  font-size: 1.1rem;
+.expedition-title {
+  font-size: 1.15rem;
+  font-weight: bold;
   letter-spacing: 0.5px;
-}
-
-.portal-text small {
-  font-size: 0.75rem;
-  opacity: 0.9;
   color: #ffd700;
+  text-shadow: 0 0 12px rgba(255, 215, 0, 0.8);
+  line-height: 1.2;
 }
 
-@keyframes portalPulse {
+.expedition-subtitle {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #c9a66b;
+  opacity: 0.95;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.expedition-description {
+  font-size: 0.75rem;
+  line-height: 1.4;
+  color: #f5e6d3;
+  opacity: 0.9;
+  margin-top: 0.25rem;
+  max-width: 280px;
+}
+
+.expedition-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 0.7rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #00ff88;
+  text-shadow: 0 0 8px rgba(0, 255, 136, 0.8);
+}
+
+.badge-pulse {
+  animation: badgePulse 2s ease-in-out infinite;
+}
+
+.expedition-arrow {
+  font-size: 1.8rem;
+  color: #ffd700;
+  flex-shrink: 0;
+  animation: arrowFloat 2s ease-in-out infinite;
+  filter: drop-shadow(0 0 6px rgba(255, 215, 0, 0.8));
+}
+
+/* Expedition Animations */
+@keyframes expeditionPulse {
   0%, 100% {
-    box-shadow: 0 8px 32px rgba(74, 124, 44, 0.4);
+    box-shadow: 
+      0 12px 48px rgba(74, 124, 44, 0.6),
+      inset 0 1px 0 rgba(255, 255, 255, 0.1),
+      0 0 60px rgba(255, 215, 0, 0.3);
   }
   50% {
-    box-shadow: 0 8px 32px rgba(255, 215, 0, 0.5);
+    box-shadow: 
+      0 12px 48px rgba(255, 215, 0, 0.8),
+      inset 0 1px 0 rgba(255, 255, 255, 0.15),
+      0 0 80px rgba(255, 215, 0, 0.5);
   }
 }
 
-@keyframes leafSway {
-  0%, 100% { transform: rotate(-5deg); }
-  50% { transform: rotate(5deg); }
+@keyframes expeditionShine {
+  0% {
+    transform: translateX(-100%) translateY(-100%) rotate(45deg);
+  }
+  100% {
+    transform: translateX(100%) translateY(100%) rotate(45deg);
+  }
 }
 
+@keyframes explorerFloat {
+  0%, 100% { 
+    transform: translateY(0) rotate(-3deg); 
+  }
+  50% { 
+    transform: translateY(-8px) rotate(3deg); 
+  }
+}
+
+@keyframes arrowFloat {
+  0%, 100% { 
+    transform: translateX(0); 
+  }
+  50% { 
+    transform: translateX(8px); 
+  }
+}
+
+@keyframes badgePulse {
+  0%, 100% { 
+    opacity: 0.8;
+    transform: scale(1);
+  }
+  50% { 
+    opacity: 1;
+    transform: scale(1.3);
+  }
+}
+
+/* Mobile Responsive */
 @media (max-width: 768px) {
-  .humboldtverse-portal {
+  .expedition-portal-card {
     top: auto;
     bottom: 1rem;
+    left: 1rem;
     right: 1rem;
-    padding: 0.75rem 1rem;
+    max-width: calc(100% - 2rem);
+    padding: 1rem;
   }
   
-  .portal-text strong {
-    font-size: 0.9rem;
+  .expedition-icon {
+    font-size: 2rem;
   }
   
-  .portal-text small {
+  .expedition-title {
+    font-size: 1rem;
+  }
+  
+  .expedition-description {
     display: none;
+  }
+  
+  .expedition-arrow {
+    font-size: 1.5rem;
   }
 }
 

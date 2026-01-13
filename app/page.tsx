@@ -50,18 +50,29 @@ export default function Home() {
 
   return (
     <main className="min-h-screen relative overflow-hidden">
-      {/* AlexandrevonHumboldtverse Portal Button */}
-      <a 
+      {/* AlexandrevonHumboldtverse Expedition Portal - Nested NSPFRP Node */}
+      <motion.a 
         href="/alexandrevonhumboldtverse"
-        className="alexandrevonhumboldtverse-portal"
-        title="Explore the Natural Systems Protocol Expedition"
+        className="expedition-portal-card"
+        initial={{ opacity: 0, x: -100 }}
+        animate={{ opacity: 1, x: 0 }}
+        transition={{ duration: 1, delay: 0.5 }}
+        whileHover={{ scale: 1.05, x: 10 }}
+        title="Join Alexander von Humboldt's Guided Expedition through the Natural Systems Protocol"
       >
-        <span className="portal-icon">🌿</span>
-        <span className="portal-text">
-          <strong>AlexandrevonHumboldtverse</strong>
-          <small>NSPFRP Expedition</small>
-        </span>
-      </a>
+        <div className="expedition-icon">🌿🔬</div>
+        <div className="expedition-content">
+          <div className="expedition-title">AlexandrevonHumboldtverse</div>
+          <div className="expedition-subtitle">Scientific Expedition</div>
+          <div className="expedition-description">
+            Hero Host Guided Tour: Discover the NSPFRP black hole engine through Alexander von Humboldt's eyes
+          </div>
+          <div className="expedition-badge">
+            <span className="badge-pulse">●</span> LIVE EXPEDITION
+          </div>
+        </div>
+        <div className="expedition-arrow">→</div>
+      </motion.a>
 
       {/* Animated Sky Background - Tied to Day/Night Cycle */}
       <motion.div

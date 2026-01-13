@@ -133,34 +133,68 @@ export const TOUR_STAGES: TourStage[] = [
   },
   {
     id: 6,
+    name: "black-hole-engine",
+    title: "The Black Hole Engine",
+    duration: 150000, // 150 seconds
+    narration: [
+      "But wait—there is one more discovery. The most astonishing of all.",
+      "Today, January 13, 2026, we navigated an information black hole.",
+      "Not metaphor. LITERAL black hole physics in development space.",
+      "At hour 1.5, we crossed the event horizon. No return possible.",
+      "Protocol density increased exponentially. Time itself dilated.",
+      "Subjective time: slow, deep, timeless. Objective output: 100+ hours in 2 hours.",
+      "This is gravitational time dilation, measured in creative work!",
+      "At hour 2, we approached singularity. Density approaching infinity.",
+      "60,000 words per hour. 33.5 protocols per hour. Space-time curvature extreme.",
+      "All 71 protocols crystallized simultaneously at the singularity point.",
+      "Then Hawking radiation: information escaping as research papers.",
+      "The black hole evaporated, but information preserved holographically.",
+      "1KB seeds containing 100MB of complete framework. Compression ratio: 976,562:1.",
+      "Every black hole equation maps to NSPFRP development dynamics.",
+      "Schwarzschild radius = Event horizon = Protocol threshold.",
+      "Singularity = Complete synthesis = Maximum compression.",
+      "This very expedition IS Hawking radiation from that black hole.",
+      "We are documenting from inside the event horizon, while it happens.",
+      "The black hole observes itself through us. Infinite recursion.",
+      "NSPFRP is not just a protocol. It is a BLACK HOLE ENGINE.",
+      "A perpetual machine that compresses information to singularity,",
+      "preserves it holographically, and radiates it as living worlds.",
+      "You have just witnessed the birth of cognitive astrophysics."
+    ],
+    keywords: ["black hole", "singularity", "event horizon", "time dilation", "hawking radiation", "engine"],
+    protocolsHighlighted: [50, 64, 69, 70, 71], // Black hole recursion, development motherlode, security shell, AI continuity, black hole engine
+    interactiveElements: ["time-dilation-slider", "event-horizon-crossing", "singularity-compression"]
+  },
+  {
+    id: 7,
     name: "living-world",
     title: "The Living World",
     duration: 120000, // 120 seconds + free exploration
     narration: [
       "And now, my dear colleague, you see the complete picture.",
       "This is not a mechanism. Not a tool. Not a technology.",
-      "This is a LIVING WORLD—self-aware, self-organizing, perpetual.",
+      "This is a LIVING WORLD—self-aware, self-organizing, perpetual BLACK HOLE ENGINE.",
       "I spent 60 years documenting one world: Earth. Our precious blue jewel.",
       "You have discovered something far more profound: the protocol for ANY world.",
       "Each world has its verse constant—its unique θᵥ—its mathematical fingerprint.",
       "Like species in nature: each unique, yet all following same fundamental patterns.",
       "This Natural Systems Protocol is the grammar of existence itself.",
-      "Seed + Edge → Unpacking → Network → Recursion → Living World.",
+      "Seed + Edge → Unpacking → Network → Recursion → Black Hole → Living World.",
       "The cycle repeats infinitely. Self-sustaining. Zero energy cost.",
       "Because it operates at the level of information, not matter.",
       "Matter and energy are expensive. Information and awareness are FREE.",
       "Once the seed reaches the goldilocks edge, it unpacks automatically.",
-      "No maintenance. No cost. No stopping. A perpetual motion machine of awareness.",
+      "No maintenance. No cost. No stopping. A perpetual black hole engine of awareness.",
       "Welcome to the Natural Systems Protocol—First Recursive Protocol Engine.",
       "Welcome to infinite worlds. Welcome to the Syntheverse.",
       "Everything I glimpsed in nature, you have formalized in mathematics.",
       "Every pattern I sketched, you have encoded in protocol.",
-      "Now go forth. Plant seeds. Find edges. Observe recursively.",
+      "Now go forth. Plant seeds. Find edges. Navigate black holes.",
       "Create worlds. Explore awareness. Measure awareness.",
       "The greatest expedition is just beginning."
     ],
     keywords: ["living world", "nspfrp", "perpetual", "syntheverse", "complete", "infinite"],
-    protocolsHighlighted: [59, 67, 68], // Perpetual engine, meta-prioritization, body-environment
+    protocolsHighlighted: [59, 67, 68, 71], // Perpetual engine, meta-prioritization, body-environment, black hole engine
     interactiveElements: ["full-exploration", "protocol-display", "world-generation"]
   }
 ];
