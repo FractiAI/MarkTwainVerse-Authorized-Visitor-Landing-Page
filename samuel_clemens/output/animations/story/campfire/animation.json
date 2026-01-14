@@ -1,0 +1,13 @@
+{
+  "name": "campfire",
+  "frames": 60,
+  "fps": 10,
+  "duration": 6.0,
+  "created_at": "2026-01-14T14:37:03.696943",
+  "config": {
+    "width": 80,
+    "height": 24,
+    "loop": true,
+    "easing": "ease_in_out"
+  }
+}

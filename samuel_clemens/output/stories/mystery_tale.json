@@ -1,0 +1,28 @@
+{
+  "title": "A Stranger's Journey",
+  "text": "Something wasn't right at Frontier Town Main Street. The Frontier Widow could feel it before there was proof. Every answer led to more questions. The Frontier Widow dug deeper, despite the warnings. The truth about Frontier Town Main Street changed everything. And The Frontier Widow had to decide what to do with it.\n\nAs I always say: \"The reports of my death are greatly exaggerated.\"",
+  "word_count": 65,
+  "generated_at": "2026-01-14T14:37:03.532885",
+  "generator": "samuel_clemens",
+  "version": "0.2.0",
+  "type": "generated",
+  "template": "Mystery Tale",
+  "emotion": "storytelling",
+  "character": {
+    "name": "The Treasure Hunter",
+    "role": "antagonist",
+    "traits": [
+      "greedy",
+      "clever",
+      "persistent",
+      "desperate"
+    ]
+  },
+  "setting": {
+    "name": "Frontier Town Main Street",
+    "atmosphere": "lively"
+  },
+  "theme": {
+    "name": "Civilization vs. Wilderness"
+  }
+}

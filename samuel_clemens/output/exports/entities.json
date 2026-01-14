@@ -1,0 +1,38 @@
+{
+  "hero-host-mark-twain": {
+    "name": "Mark Twain",
+    "type": "character",
+    "energy": 0.9,
+    "mood": "thriving"
+  },
+  "frontier-town-center": {
+    "name": "Frontier Town Center",
+    "type": "building",
+    "energy": 0.8,
+    "mood": "active"
+  },
+  "frontier-colony-district": {
+    "name": "Frontier Colony",
+    "type": "building",
+    "energy": 0.75,
+    "mood": "active"
+  },
+  "wilderness-preserve-zone": {
+    "name": "Wilderness Preserve",
+    "type": "landscape",
+    "energy": 1.0,
+    "mood": "thriving"
+  },
+  "hero-host-nikola-tesla": {
+    "name": "Nikola Tesla",
+    "type": "character",
+    "energy": 0.95,
+    "mood": "thriving"
+  },
+  "hhf-ai-mri-system": {
+    "name": "HHF-AI MRI System",
+    "type": "system",
+    "energy": 1.0,
+    "mood": "active"
+  }
+}

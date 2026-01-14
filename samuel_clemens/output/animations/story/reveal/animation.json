@@ -1,0 +1,13 @@
+{
+  "name": "reveal_story",
+  "frames": 60,
+  "fps": 12,
+  "duration": 5.0,
+  "created_at": "2026-01-14T14:37:03.691506",
+  "config": {
+    "width": 80,
+    "height": 24,
+    "loop": false,
+    "easing": "ease_in_out"
+  }
+}

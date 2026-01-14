@@ -1,0 +1,28 @@
+{
+  "title": "A Contemplative Story",
+  "text": "There's something about Adventure's Call that the young can't understand. You have to live a while to see it clearly. The truth about Adventure's Call is that it changes depending on where you're standing. In the end, Adventure's Call is simpler than we make it. And harder than we admit.\n\nAs I always say: \"A person with a new idea is a crank until the idea succeeds.\"",
+  "word_count": 67,
+  "generated_at": "2026-01-14T14:37:03.510402",
+  "generator": "samuel_clemens",
+  "version": "0.2.0",
+  "type": "generated",
+  "template": "Wisdom Piece",
+  "emotion": "contemplation",
+  "character": {
+    "name": "The Wandering Philosopher",
+    "role": "mentor",
+    "traits": [
+      "eccentric",
+      "wise",
+      "humorous",
+      "cryptic"
+    ]
+  },
+  "setting": {
+    "name": "The Mississippi River",
+    "atmosphere": "mysterious"
+  },
+  "theme": {
+    "name": "Adventure's Call"
+  }
+}

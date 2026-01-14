@@ -1,0 +1,28 @@
+{
+  "title": "The Tale of A Stranger",
+  "text": "Gather 'round, because this tale about The Riverboat Captain is one you won't believe\u2014until you do. What The Riverboat Captain did next would make a lesser storyteller refuse to tell it. But I'm not a lesser storyteller. Believe it or don't\u2014but I was there, and I saw it with my own two eyes. Goodnight, now.\n\nAs I always say: \"Clothes make the man. Naked people have little or no influence in society.\"",
+  "word_count": 72,
+  "generated_at": "2026-01-14T14:37:03.499500",
+  "generator": "samuel_clemens",
+  "version": "0.2.0",
+  "type": "generated",
+  "template": "Campfire Yarn",
+  "emotion": "humor",
+  "character": {
+    "name": "The Young Adventurer",
+    "role": "protagonist",
+    "traits": [
+      "curious",
+      "brave",
+      "naive",
+      "hopeful"
+    ]
+  },
+  "setting": {
+    "name": "The Abandoned Mine",
+    "atmosphere": "tense"
+  },
+  "theme": {
+    "name": "Human Connection"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "A Stranger at the Frontier",
+  "text": "They say The Town Sheriff came to The Alpine Summit looking for one thing but found something else entirely. Day after day, the challenges mounted. But The Town Sheriff had something the frontier couldn't take away. That's how The Town Sheriff came to understand the truth about life on the frontier.\n\nAs I always say: \"The lack of money is the root of all evil.\"",
+  "word_count": 65,
+  "generated_at": "2026-01-14T14:37:03.462649",
+  "generator": "samuel_clemens",
+  "version": "0.2.0",
+  "type": "generated",
+  "template": "Frontier Tale",
+  "emotion": "adventure",
+  "character": {
+    "name": "The Young Adventurer",
+    "role": "protagonist",
+    "traits": [
+      "curious",
+      "brave",
+      "naive",
+      "hopeful"
+    ]
+  },
+  "setting": {
+    "name": "The Abandoned Mine",
+    "atmosphere": "tense"
+  },
+  "theme": {
+    "name": "The Search for Meaning"
+  }
+}

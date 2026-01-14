@@ -1,0 +1,13 @@
+{
+  "name": "interactions",
+  "frames": 40,
+  "fps": 10,
+  "duration": 4.0,
+  "created_at": "2026-01-14T14:37:03.672548",
+  "config": {
+    "width": 80,
+    "height": 24,
+    "loop": false,
+    "easing": "ease_in_out"
+  }
+}

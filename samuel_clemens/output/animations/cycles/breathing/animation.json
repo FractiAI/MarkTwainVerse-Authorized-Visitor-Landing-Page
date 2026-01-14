@@ -1,0 +1,13 @@
+{
+  "name": "breathing_cycle",
+  "frames": 60,
+  "fps": 15,
+  "duration": 4.0,
+  "created_at": "2026-01-14T14:37:03.640300",
+  "config": {
+    "width": 80,
+    "height": 24,
+    "loop": true,
+    "easing": "ease_in_out"
+  }
+}

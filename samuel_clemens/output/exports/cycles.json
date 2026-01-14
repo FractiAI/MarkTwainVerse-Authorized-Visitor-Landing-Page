@@ -1,0 +1,22 @@
+{
+  "breathing": {
+    "name": "Breathing Cycle",
+    "phase": 0.36416552734375,
+    "description": "Ambient animation - the world's breath"
+  },
+  "dayNight": {
+    "name": "Day-Night Cycle",
+    "phase": 0.11820831095377604,
+    "description": "Current: night"
+  },
+  "expedition": {
+    "name": "Expedition Rhythm",
+    "phase": 0.033773809523809525,
+    "description": "Featured expedition day: 0"
+  },
+  "seasons": {
+    "name": "Seasonal Progression",
+    "phase": 0.008443453688848586,
+    "description": "Current season: spring"
+  }
+}
